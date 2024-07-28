@@ -1,0 +1,20 @@
+{
+  "Agency_002_Valid": [
+    {
+      "fullName": "Duc Thien",
+      "position": "Nvvp",
+      "company": "Cty TNHH ABC",
+      "email": "johnt1211@gmail.com",
+      "phone": "0868298402"
+    },
+    {
+      "fullName": "D Thien",
+      "position": "Drafter",
+      "company": "Cty TNHH XYZ",
+      "email": "johnt12111@gmail.com",
+      "phone": "0868298403"
+    }
+
+  ],
+  "Test_case_02": []
+}

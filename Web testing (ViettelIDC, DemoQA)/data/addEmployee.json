@@ -1,0 +1,12 @@
+{
+  "AddEmployee_002_AddNew": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "firstName": "Vincent",
+      "middleName": "T",
+      "lastName": "Test"
+    }
+  ],
+  "Test_case_02": []
+}

@@ -1,0 +1,26 @@
+{
+  "Consultant_002_Valid": [
+    {
+      "fullName": "Duc Thien",
+      "phone": "123456789",
+      "email": "johnt1211@gmail.com",
+      "serviceType": "Cloud",
+      "content": "This is a content"
+    },
+    {
+      "fullName": "D Thien",
+      "phone": "987654321",
+      "email": "johnt1211@gmail.com",
+      "serviceType": "Bandwidth",
+      "content": "This is a content"
+    },
+    {
+      "fullName": "D T",
+      "phone": "0161655464",
+      "email": "johnt1211@gmail.com",
+      "serviceType": "GPU",
+      "content": "This is a content"
+    }
+  ],
+  "Test_case_02": []
+}
